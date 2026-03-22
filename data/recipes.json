@@ -106,30 +106,6 @@
     }
   },
   {
-    "id": "laziji",
-    "nameZh": "辣子鸡",
-    "nameEn": "laziji",
-    "category": "meat",
-    "difficulty": "hard",
-    "ingredients": {
-      "zh": [],
-      "en": []
-    },
-    "steps": {
-      "zh": [],
-      "en": []
-    },
-    "tags": {
-      "zh": [],
-      "en": []
-    },
-    "tips": {
-      "zh": "",
-      "en": ""
-    },
-    "image": ""
-  },
-  {
     "id": "dry-pot-cauliflower",
     "nameZh": "干锅花菜",
     "nameEn": "Dry Pot Cauliflower",
