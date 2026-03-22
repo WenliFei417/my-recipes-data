@@ -1578,5 +1578,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "grilled-beef-skewer",
+    "nameZh": "烤牛肉串",
+    "nameEn": "Grilled Beef Skewer",
+    "category": "oven",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "牛肉",
+        "彩椒",
+        "洋葱"
+      ],
+      "en": [
+        "Beef",
+        "Bell Pepper",
+        "Onion"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
