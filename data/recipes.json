@@ -1712,5 +1712,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "banana-pudding-bowl",
+    "nameZh": "香蕉布丁碗",
+    "nameEn": "Banana Pudding Bowl",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "香蕉",
+        "奶油"
+      ],
+      "en": [
+        "Banana",
+        "Cream"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
