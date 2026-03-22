@@ -678,5 +678,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "coca-cola-chicken-wing",
+    "nameZh": "可乐鸡翅",
+    "nameEn": "Coca-Cola Chicken Wing",
+    "category": "meat",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡翅",
+        "可乐"
+      ],
+      "en": [
+        "Chicken Wing",
+        "Coca-Cola"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
