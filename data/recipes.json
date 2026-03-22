@@ -1522,5 +1522,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "grilled-gluten-skewer",
+    "nameZh": "烤面筋",
+    "nameEn": "Grilled Gluten Skewer",
+    "category": "oven",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面筋"
+      ],
+      "en": [
+        "Wheat Gluten"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
