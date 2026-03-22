@@ -284,5 +284,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "spicy-stir-fried-beef-with-chilies",
+    "nameZh": "辣椒炒肉",
+    "nameEn": "Spicy Stir-Fried Beef with Chilies",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "牛肉",
+        "螺丝椒"
+      ],
+      "en": [
+        "Beef",
+        "Long Green Chilies"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
