@@ -2156,5 +2156,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "chive-pocket",
+    "nameZh": "韭菜盒子",
+    "nameEn": "Chive Pocket",
+    "category": "snack",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "韭菜",
+        "鸡蛋",
+        "卷饼皮"
+      ],
+      "en": [
+        "Chinese Chive",
+        "Egg",
+        "Wrapper"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
