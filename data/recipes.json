@@ -440,5 +440,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "crispy-eggplant-in-a-sweet-savory-sauce",
+    "nameZh": "风味茄子",
+    "nameEn": "Crispy Eggplant in a Sweet Savory Sauce",
+    "category": "veggie",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "茄子"
+      ],
+      "en": [
+        "Eggplant"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
