@@ -252,5 +252,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "dry-pot-cauliflower",
+    "nameZh": "干锅花菜",
+    "nameEn": "Dry Pot Cauliflower",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "花菜",
+        "猪肉 / 牛肉",
+        "青椒"
+      ],
+      "en": [
+        "Cauliflower",
+        "Pork / Beef",
+        "Green Pepper"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
