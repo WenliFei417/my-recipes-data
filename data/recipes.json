@@ -1482,5 +1482,45 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "grilled-fish-on-a-sizzling-plate",
+    "nameZh": "铁盘烤鱼",
+    "nameEn": "Grilled Fish on a Sizzling Plate",
+    "category": "seafood",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "鲈鱼",
+        "肉丸",
+        "豆腐",
+        "午餐肉",
+        "蘑菇",
+        "菠菜",
+        "白菜"
+      ],
+      "en": [
+        "Sea Bass",
+        "Meatball",
+        "Tofu",
+        "Spam",
+        "Mushroom",
+        "Spinach",
+        "Bok Choy"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
