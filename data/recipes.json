@@ -1284,5 +1284,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "egg-fried-rice",
+    "nameZh": "蛋炒饭",
+    "nameEn": "Egg Fried Rice",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "饭",
+        "鸡蛋",
+        "火腿肠",
+        "小白菜"
+      ],
+      "en": [
+        "Rice",
+        "Egg",
+        "Sausage",
+        "Bok Choy"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
