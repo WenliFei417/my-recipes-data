@@ -648,5 +648,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "salted-egg-yolk-chicken-wing",
+    "nameZh": "咸蛋黄焗鸡翅",
+    "nameEn": "Salted Egg Yolk Chicken Wing",
+    "category": "meat",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "鸡翅",
+        "咸鸭蛋黄"
+      ],
+      "en": [
+        "Chicken Wing",
+        "Salted Egg Yolk"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
