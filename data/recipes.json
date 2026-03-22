@@ -1776,5 +1776,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "mango-pomelo-sago",
+    "nameZh": "杨枝甘露",
+    "nameEn": "Mango Pomelo Sago",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "芒果酱",
+        "西米露",
+        "椰汁"
+      ],
+      "en": [
+        "Mango Puree",
+        "Sago",
+        "Coconut Milk"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
