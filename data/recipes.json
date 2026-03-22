@@ -998,5 +998,43 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "beef-curry-rice",
+    "nameZh": "咖喱牛肉饭",
+    "nameEn": "Beef Curry Rice",
+    "category": "staple",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "咖喱",
+        "牛肉",
+        "土豆",
+        "胡萝卜",
+        "洋葱",
+        "米饭"
+      ],
+      "en": [
+        "Curry",
+        "Beef",
+        "Potato",
+        "Carrot",
+        "Onion",
+        "Rice"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
