@@ -1678,5 +1678,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "tiramisu",
+    "nameZh": "提拉米苏",
+    "nameEn": "Tiramisu",
+    "category": "dessert",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "马斯卡彭芝士",
+        "手指饼干",
+        "咖啡液",
+        "巧克力粉"
+      ],
+      "en": [
+        "Mascarpone Cheese",
+        "Ladyfinger",
+        "Coffee",
+        "Cocoa Powder"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
