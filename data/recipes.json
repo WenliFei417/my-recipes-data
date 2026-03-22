@@ -966,5 +966,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "noodle-soup-with-beef-shank",
+    "nameZh": "牛肉汤面",
+    "nameEn": "Noodle Soup with Beef Shank",
+    "category": "staple",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "面条",
+        "牛腱子",
+        "白菜"
+      ],
+      "en": [
+        "Noodle",
+        "Beef Shank",
+        "Napa Cabbage"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
