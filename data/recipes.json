@@ -2126,5 +2126,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "sticky-rice-ball",
+    "nameZh": "糯米圆子",
+    "nameEn": "Sticky Rice Ball",
+    "category": "snack",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "糯米",
+        "猪肉"
+      ],
+      "en": [
+        "Glutinous Rice",
+        "Pork"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
