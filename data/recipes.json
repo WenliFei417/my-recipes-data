@@ -56,56 +56,6 @@
     }
   },
   {
-    "id": "shui-zhu-yu",
-    "nameZh": "水煮鱼",
-    "nameEn": "Sichuan Boiled Fish",
-    "category": "seafood",
-    "difficulty": "hard",
-    "ingredients": {
-      "zh": [
-        "草鱼 1条",
-        "豆芽 200g",
-        "干辣椒 一大把",
-        "花椒 2勺",
-        "郫县豆瓣酱 2勺",
-        "蒜末 适量",
-        "料酒 1勺",
-        "淀粉 适量",
-        "蛋清 1个"
-      ],
-      "en": [
-        "1 grass carp (or any white fish)",
-        "200g bean sprouts",
-        "A generous handful of dried chili peppers",
-        "2 tbsp Sichuan peppercorns",
-        "2 tbsp doubanjiang (chili bean paste)",
-        "Minced garlic to taste",
-        "1 tbsp cooking wine",
-        "Starch to taste",
-        "1 egg white"
-      ]
-    },
-    "steps": {
-      "zh": [],
-      "en": []
-    },
-    "image": "shui-zhu-yu.jpg",
-    "tags": {
-      "zh": [
-        "吃辣最爱",
-        "硬核大菜"
-      ],
-      "en": [
-        "Spice lovers only",
-        "Showstopper"
-      ]
-    },
-    "tips": {
-      "zh": "鱼片要顺着纹路切，腌的时候加蛋清和淀粉，口感会特别嫩滑。",
-      "en": "Slice fish along the grain. Marinate with egg white and starch for a silky, tender texture."
-    }
-  },
-  {
     "id": "dry-pot-cauliflower",
     "nameZh": "干锅花菜",
     "nameEn": "Dry Pot Cauliflower",
