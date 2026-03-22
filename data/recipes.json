@@ -2096,5 +2096,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "beef-layered-flatbread",
+    "nameZh": "牛肉千层饼",
+    "nameEn": "Beef Layered Flatbread",
+    "category": "snack",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "牛肉"
+      ],
+      "en": [
+        "Flour",
+        "Beef"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
