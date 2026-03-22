@@ -1384,5 +1384,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "teriyaki-fish-fillet",
+    "nameZh": "照烧鱼排",
+    "nameEn": "Teriyaki Fish Fillet",
+    "category": "seafood",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鱼排",
+        "照烧汁"
+      ],
+      "en": [
+        "Fish Fillet",
+        "Teriyaki Sauce"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
