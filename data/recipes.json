@@ -934,5 +934,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "cold-noodles-with-shredded-chicken",
+    "nameZh": "鸡丝凉面",
+    "nameEn": "Cold Noodles with Shredded Chicken",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "面条",
+        "鸡胸肉",
+        "香菜"
+      ],
+      "en": [
+        "Noodle",
+        "Chicken Breast",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
