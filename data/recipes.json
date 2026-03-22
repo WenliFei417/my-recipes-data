@@ -204,7 +204,7 @@
     "nameZh": "辣椒炒肉",
     "nameEn": "Spicy Stir-Fried Beef with Chilies",
     "category": "veggie",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "ingredients": {
       "zh": [
         "牛肉",
@@ -227,7 +227,7 @@
       "zh": "",
       "en": ""
     },
-    "image": ""
+    "image": "spicy-stir-fried-beef-with-chilies.JPG"
   },
   {
     "id": "braised-eggplant-with-minced-meat",
