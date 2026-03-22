@@ -1872,5 +1872,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "butter-rice-cake",
+    "nameZh": "黄油年糕",
+    "nameEn": "Butter Rice Cake",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "黄油",
+        "糯米粉"
+      ],
+      "en": [
+        "Butter",
+        "Glutinous Rice Flour"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
