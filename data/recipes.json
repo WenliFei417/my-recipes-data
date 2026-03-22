@@ -532,5 +532,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "sweet--sour-pork-ribs",
+    "nameZh": "糖醋排骨",
+    "nameEn": "Sweet & Sour Pork Ribs",
+    "category": "meat",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "排骨"
+      ],
+      "en": [
+        "Pork Rib"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
