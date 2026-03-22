@@ -374,5 +374,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "scrambled-eggs-with-tomato",
+    "nameZh": "番茄炒蛋",
+    "nameEn": "Scrambled Eggs with Tomato",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡蛋",
+        "番茄"
+      ],
+      "en": [
+        "Egg",
+        "Tomato"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [
+        "小孩最爱"
+      ],
+      "en": [
+        "Kids favorite"
+      ]
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
