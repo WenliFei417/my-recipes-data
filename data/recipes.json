@@ -1742,5 +1742,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "pork-floss-cake-bite",
+    "nameZh": "肉松小贝",
+    "nameEn": "Pork Floss Cake Bite",
+    "category": "dessert",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "猪肉松",
+        "海苔",
+        "芝麻"
+      ],
+      "en": [
+        "Flour",
+        "Pork Floss",
+        "Seaweed",
+        "Sesame"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
