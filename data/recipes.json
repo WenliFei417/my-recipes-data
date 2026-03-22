@@ -1414,5 +1414,41 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "seafood-scallion-pancake",
+    "nameZh": "海鲜葱饼",
+    "nameEn": "Seafood Scallion Pancake",
+    "category": "seafood",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "大葱",
+        "虾",
+        "鱿鱼",
+        "鸡蛋"
+      ],
+      "en": [
+        "Flour",
+        "Scallion",
+        "Shrimp",
+        "Squid",
+        "Egg"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
