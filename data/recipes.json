@@ -588,5 +588,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "sichuan-mouthwatering-chicken",
+    "nameZh": "口水鸡",
+    "nameEn": "Sichuan Mouthwatering Chicken",
+    "category": "meat",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡腿",
+        "香菜"
+      ],
+      "en": [
+        "Chicken Thigh",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
