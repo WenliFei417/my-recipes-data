@@ -2002,5 +2002,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "steamed-egg",
+    "nameZh": "蒸蛋",
+    "nameEn": "Steamed Egg",
+    "category": "egg",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡蛋"
+      ],
+      "en": [
+        "Egg"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
