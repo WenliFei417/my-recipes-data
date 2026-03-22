@@ -1970,5 +1970,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "spicy-sliced-egg",
+    "nameZh": "金钱蛋",
+    "nameEn": "Spicy Sliced Egg",
+    "category": "egg",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡蛋",
+        "香菜",
+        "辣椒酱"
+      ],
+      "en": [
+        "Egg",
+        "Cilantro",
+        "Chili Sauce"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
