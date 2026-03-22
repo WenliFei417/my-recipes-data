@@ -1242,5 +1242,47 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "mala-dry-pot",
+    "nameZh": "麻辣香锅",
+    "nameEn": "Mala Dry Pot",
+    "category": "staple",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "方便面",
+        "肉丸",
+        "虾",
+        "青菜",
+        "千张",
+        "豆腐",
+        "蟹柳",
+        "香菜"
+      ],
+      "en": [
+        "Instant Noodle",
+        "Meatball",
+        "Shrimp",
+        "Bok Choy",
+        "Tofu Skin",
+        "Tofu",
+        "Crab Stick",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
