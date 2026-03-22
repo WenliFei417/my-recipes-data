@@ -1610,5 +1610,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "strawberry-box-cake",
+    "nameZh": "草莓盒子蛋糕",
+    "nameEn": "Strawberry Box Cake",
+    "category": "dessert",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "草莓",
+        "蓝莓",
+        "奶油",
+        "低筋面粉"
+      ],
+      "en": [
+        "Strawberry",
+        "Blueberry",
+        "Cream",
+        "Cake Flour"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
