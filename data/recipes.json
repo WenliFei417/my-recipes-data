@@ -1174,5 +1174,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "stir-fried-noodle-with-sausage-and-egg",
+    "nameZh": "火腿肠鸡蛋炒面",
+    "nameEn": "Stir-Fried Noodle with Sausage and Egg",
+    "category": "staple",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "面条",
+        "火腿肠",
+        "鸡蛋",
+        "小白菜"
+      ],
+      "en": [
+        "Noodle",
+        "Sausage",
+        "Egg",
+        "Bok Choy"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
