@@ -526,5 +526,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "chicken-feet-in-korean-chili-sauce",
+    "nameZh": "韩式辣酱鸡爪",
+    "nameEn": "Chicken Feet in Korean Chili Sauce",
+    "category": "veggie",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "鸡爪",
+        "韩式辣酱"
+      ],
+      "en": [
+        "Chicken Foot",
+        "Korean Chili Paste"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
