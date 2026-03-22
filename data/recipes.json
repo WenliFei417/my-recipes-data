@@ -496,5 +496,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "pan-seared-tofu",
+    "nameZh": "香煎豆腐",
+    "nameEn": "Pan-Seared Tofu",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "豆腐",
+        "香菜"
+      ],
+      "en": [
+        "Tofu",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
