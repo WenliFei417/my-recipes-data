@@ -284,5 +284,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "braised-tofu-with-leeks",
+    "nameZh": "大葱烧豆腐",
+    "nameEn": "Braised Tofu with Leeks",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "豆腐",
+        "大葱"
+      ],
+      "en": [
+        "Tofu",
+        "Leeks"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
