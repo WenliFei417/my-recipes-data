@@ -1936,5 +1936,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "baked-brie-toast",
+    "nameZh": "Brie烤吐司",
+    "nameEn": "Baked Brie Toast",
+    "category": "dessert",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "吐司",
+        "brie芝士",
+        "苹果片",
+        "蓝莓酱"
+      ],
+      "en": [
+        "Toast",
+        "Brie Cheese",
+        "Apple Slice",
+        "Blueberry Jam"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
