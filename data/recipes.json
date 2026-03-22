@@ -708,5 +708,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "cumin-lamb",
+    "nameZh": "孜然羊肉",
+    "nameEn": "Cumin Lamb",
+    "category": "meat",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "羊肉",
+        "香菜"
+      ],
+      "en": [
+        "Lamb",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
