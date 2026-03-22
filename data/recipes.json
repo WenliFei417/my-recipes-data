@@ -1074,5 +1074,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "stir-fried-rice-noodle",
+    "nameZh": "炒米粉",
+    "nameEn": "Stir-Fried Rice Noodle",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "米粉",
+        "牛肉 / 虾",
+        "鸡蛋",
+        "白菜"
+      ],
+      "en": [
+        "Rice Noodle",
+        "Beef / Shrimp",
+        "Egg",
+        "Napa Cabbage"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
