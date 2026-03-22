@@ -252,5 +252,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "mapo-tofu",
+    "nameZh": "麻婆豆腐",
+    "nameEn": "Mapo Tofu",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "豆腐",
+        "牛肉 / 猪肉",
+        "辣椒油"
+      ],
+      "en": [
+        "Tofu",
+        "Beef / Pork",
+        "Chili Oil"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
