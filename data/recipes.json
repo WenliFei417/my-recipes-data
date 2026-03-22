@@ -2064,5 +2064,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "chicken-sandwich",
+    "nameZh": "鸡肉三明治",
+    "nameEn": "Chicken Sandwich",
+    "category": "snack",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "麦芬饼",
+        "鸡蛋",
+        "鸡胸肉"
+      ],
+      "en": [
+        "English Muffin",
+        "Egg",
+        "Chicken Breast"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
