@@ -1644,5 +1644,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "mango-sticky-rice-dessert-bowl",
+    "nameZh": "芒果白雪黑糯米碗",
+    "nameEn": "Mango Sticky Rice Dessert Bowl",
+    "category": "dessert",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "芒果",
+        "血糯米",
+        "香草冰淇淋",
+        "椰奶"
+      ],
+      "en": [
+        "Mango",
+        "Black Sticky Rice",
+        "Vanilla Ice Cream",
+        "Coconut Milk"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
