@@ -2030,5 +2030,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "pumpkin-glutinous-rice-cookie",
+    "nameZh": "南瓜糯米饼干",
+    "nameEn": "Pumpkin Glutinous Rice Cookie",
+    "category": "snack",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "南瓜",
+        "糯米粉",
+        "饼干",
+        "芝麻"
+      ],
+      "en": [
+        "Pumpkin",
+        "Glutinous Rice Flour",
+        "Cookie",
+        "Sesame"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
