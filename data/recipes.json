@@ -798,5 +798,41 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "beef-over-noodles",
+    "nameZh": "牛肉盖浇面",
+    "nameEn": "Beef over Noodles",
+    "category": "staple",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "面条",
+        "牛肉",
+        "洋葱",
+        "青椒",
+        "红椒"
+      ],
+      "en": [
+        "Noodle",
+        "Beef",
+        "Onion",
+        "Green Pepper",
+        "Red Pepper"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
