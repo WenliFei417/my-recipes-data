@@ -1318,5 +1318,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "shrimp-in-tomato-sauce",
+    "nameZh": "茄汁大虾",
+    "nameEn": "Shrimp in Tomato Sauce",
+    "category": "seafood",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "虾",
+        "蕃茄酱"
+      ],
+      "en": [
+        "Shrimp",
+        "Tomato Sauce"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
