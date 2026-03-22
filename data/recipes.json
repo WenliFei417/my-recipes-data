@@ -738,5 +738,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "stir-fried-beef-with-cilantro",
+    "nameZh": "香菜炒牛肉",
+    "nameEn": "Stir-Fried Beef with Cilantro",
+    "category": "meat",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "牛肉",
+        "香菜"
+      ],
+      "en": [
+        "Beef",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
