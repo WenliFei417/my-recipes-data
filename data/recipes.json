@@ -1842,5 +1842,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "sugar-coated-strawberry",
+    "nameZh": "冰糖草莓",
+    "nameEn": "Sugar-Coated Strawberry",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "草莓",
+        "白糖"
+      ],
+      "en": [
+        "Strawberry",
+        "Sugar"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
