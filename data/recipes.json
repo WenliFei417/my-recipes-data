@@ -1140,5 +1140,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "dough-drop-soup",
+    "nameZh": "疙瘩汤",
+    "nameEn": "Dough Drop Soup",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "鸡蛋",
+        "菠菜",
+        "番茄"
+      ],
+      "en": [
+        "Flour",
+        "Egg",
+        "Spinach",
+        "Tomato"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
