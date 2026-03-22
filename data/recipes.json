@@ -314,5 +314,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "braised-eggplant-with-minced-meat",
+    "nameZh": "肉末茄子",
+    "nameEn": "Braised Eggplant with Minced Meat",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "茄子",
+        "猪肉 / 牛肉"
+      ],
+      "en": [
+        "Eggplant",
+        "Pork / Beef"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
