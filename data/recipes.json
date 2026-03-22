@@ -1808,5 +1808,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "taro-coconut-sago",
+    "nameZh": "芋头椰奶西米露",
+    "nameEn": "Taro Coconut Sago",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "香芋",
+        "椰奶",
+        "西米露",
+        "小圆子"
+      ],
+      "en": [
+        "Taro",
+        "Coconut Milk",
+        "Sago",
+        "Glutinous Rice Ball"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
