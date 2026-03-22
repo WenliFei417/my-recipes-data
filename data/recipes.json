@@ -2188,5 +2188,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "stir-fried-beef-with-leek",
+    "nameZh": "大葱炒牛肉",
+    "nameEn": "Stir-Fried Beef with Leek",
+    "category": "meat",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "牛肉",
+        "韭葱"
+      ],
+      "en": [
+        "Beef",
+        "Leek"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "stir-fried-beef-with-leek.JPG"
   }
 ]
