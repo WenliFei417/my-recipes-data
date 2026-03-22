@@ -344,5 +344,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "stir-fried-hand-torn-cabbage",
+    "nameZh": "手撕包菜",
+    "nameEn": "Stir-Fried Hand-Torn Cabbage",
+    "category": "veggie",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "包菜",
+        "五花肉"
+      ],
+      "en": [
+        "Cabbage",
+        "Pork Belly"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
