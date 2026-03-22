@@ -408,5 +408,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "beef-and-tofu-clay-pot",
+    "nameZh": "豆腐牛肉煲",
+    "nameEn": "Beef and Tofu Clay Pot",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "豆腐",
+        "牛肉",
+        "辣椒面"
+      ],
+      "en": [
+        "Tofu",
+        "Beef",
+        "Chili Flakes"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
