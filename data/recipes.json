@@ -768,5 +768,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "scallion-oil-chicken",
+    "nameZh": "葱油鸡",
+    "nameEn": "Scallion Oil Chicken",
+    "category": "meat",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡肉",
+        "小葱"
+      ],
+      "en": [
+        "Chicken",
+        "Scallion"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
