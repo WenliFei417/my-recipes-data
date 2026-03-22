@@ -1450,5 +1450,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "spicy-pan-seared-shrimp",
+    "nameZh": "香辣煎虾",
+    "nameEn": "Spicy Pan-Seared Shrimp",
+    "category": "seafood",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "虾",
+        "干辣椒",
+        "洋葱"
+      ],
+      "en": [
+        "Shrimp",
+        "Dried Chili",
+        "Onion"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
