@@ -1108,5 +1108,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "braised-noodle-with-eggplant",
+    "nameZh": "茄子焖面",
+    "nameEn": "Braised Noodle with Eggplant",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "面条",
+        "茄子",
+        "番茄"
+      ],
+      "en": [
+        "Noodle",
+        "Eggplant",
+        "Tomato"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
