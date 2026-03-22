@@ -894,5 +894,45 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "avocado-salsa-power-bowl",
+    "nameZh": "牛油果莎莎酱能量碗",
+    "nameEn": "Avocado Salsa Power Bowl",
+    "category": "staple",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "牛油果酱",
+        "酸奶油",
+        "牛肉",
+        "米饭",
+        "玉米",
+        "西红柿",
+        "香菜"
+      ],
+      "en": [
+        "Avocado Salsa",
+        "Sour Cream",
+        "Beef",
+        "Rice",
+        "Corn",
+        "Tomato",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
