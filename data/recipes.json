@@ -1902,5 +1902,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "oreo-cake",
+    "nameZh": "奥利奥蛋糕",
+    "nameEn": "Oreo Cake",
+    "category": "dessert",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "鸡蛋",
+        "奶油",
+        "奥利奥"
+      ],
+      "en": [
+        "Flour",
+        "Egg",
+        "Cream",
+        "Oreo"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
