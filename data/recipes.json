@@ -1550,5 +1550,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "grilled-chicken-feet",
+    "nameZh": "烤鸡爪",
+    "nameEn": "Grilled Chicken Feet",
+    "category": "oven",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡爪"
+      ],
+      "en": [
+        "Chicken Foot"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
