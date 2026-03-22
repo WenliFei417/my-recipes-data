@@ -618,5 +618,35 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "braised-chicken-with-potato",
+    "nameZh": "黄焖鸡",
+    "nameEn": "Braised Chicken with Potato",
+    "category": "meat",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "鸡肉",
+        "土豆"
+      ],
+      "en": [
+        "Chicken",
+        "Potato"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
