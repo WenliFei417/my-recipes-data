@@ -464,5 +464,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "three-delicacies-from-the-earth",
+    "nameZh": "地三鲜",
+    "nameEn": "Three Delicacies from the Earth",
+    "category": "veggie",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "土豆",
+        "茄子",
+        "青椒"
+      ],
+      "en": [
+        "Potato",
+        "Eggplant",
+        "Green Pepper"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
