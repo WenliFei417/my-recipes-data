@@ -1208,5 +1208,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "spaghetti-with-meat-sauce",
+    "nameZh": "番茄肉酱面",
+    "nameEn": "Spaghetti with Meat Sauce",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "意大利面",
+        "牛肉",
+        "番茄",
+        "洋葱"
+      ],
+      "en": [
+        "Spaghetti",
+        "Beef",
+        "Tomato",
+        "Onion"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
