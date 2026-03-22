@@ -866,5 +866,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "pan-fried-dumplings",
+    "nameZh": "煎饺",
+    "nameEn": "Pan-Fried Dumplings",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "饺子"
+      ],
+      "en": [
+        "Potstickers"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
