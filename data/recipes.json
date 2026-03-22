@@ -1348,5 +1348,41 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "cold-tossed-shrimp",
+    "nameZh": "凉拌虾",
+    "nameEn": "Cold Tossed Shrimp",
+    "category": "seafood",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "虾",
+        "香菜",
+        "醋",
+        "麻油",
+        "辣椒油"
+      ],
+      "en": [
+        "Shrimp",
+        "Cilantro",
+        "Vinegar",
+        "Sesame Oil",
+        "Chili Oil"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
