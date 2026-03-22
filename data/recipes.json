@@ -834,5 +834,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "stir-fried-rice-cake-with-sausage",
+    "nameZh": "火腿肠炒年糕",
+    "nameEn": "Stir-Fried Rice Cake with Sausage",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "年糕",
+        "火腿肠",
+        "豆芽菜"
+      ],
+      "en": [
+        "Rice Cake",
+        "Sausage",
+        "Bean Sprout"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
