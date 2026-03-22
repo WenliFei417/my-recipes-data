@@ -406,5 +406,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "dry-pot-thousand-layer-tofu",
+    "nameZh": "干锅千页豆腐",
+    "nameEn": "Dry Pot Thousand Layer Tofu",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "千页豆腐"
+      ],
+      "en": [
+        "Thousand Layer Tofu"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
