@@ -1036,5 +1036,43 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "stir-fried-grilled-cold-noodle",
+    "nameZh": "炒烤冷面",
+    "nameEn": "Stir-Fried Grilled Cold Noodle",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "烤冷面",
+        "鸡蛋",
+        "金针菇",
+        "白菜",
+        "火腿肠",
+        "鱼丸"
+      ],
+      "en": [
+        "Grilled Cold Noodle",
+        "Egg",
+        "Enoki Mushroom",
+        "Napa Cabbage",
+        "Sausage",
+        "Fish Ball"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
