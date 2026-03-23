@@ -2292,5 +2292,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "crispy-shrimp-with-wasabi-sauce",
+    "nameZh": "芥末虾球",
+    "nameEn": "Crispy Shrimp with Wasabi Sauce",
+    "category": "seafood",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "虾"
+      ],
+      "en": [
+        "Shrimp"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
