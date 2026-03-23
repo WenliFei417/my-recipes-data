@@ -2354,5 +2354,29 @@
       "en": ""
     },
     "image": "mango-cake-with-a-buttery-crisp-topping.JPG"
+  },
+  {
+    "id": "grilled-lamb-skewers",
+    "nameZh": "羊肉串",
+    "nameEn": "Grilled Lamb Skewers",
+    "category": "oven",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [],
+      "en": []
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "grilled-lamb-skewers.jpg"
   }
 ]
