@@ -2174,5 +2174,35 @@
       "en": ""
     },
     "image": "fermented-rice-sweet-soup-with-red-beans.JPG"
+  },
+  {
+    "id": "braised-tofu-with-bok-choy",
+    "nameZh": "青菜豆腐",
+    "nameEn": "Braised tofu with bok choy",
+    "category": "tofu",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "青菜",
+        "豆腐"
+      ],
+      "en": [
+        "Bok choy",
+        "Tofu"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
