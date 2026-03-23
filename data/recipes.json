@@ -1901,7 +1901,7 @@
     "id": "steamed-egg",
     "nameZh": "蒸蛋",
     "nameEn": "Steamed Egg",
-    "category": "egg",
+    "category": "veggie",
     "difficulty": "easy",
     "ingredients": {
       "zh": [
