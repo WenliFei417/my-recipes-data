@@ -2144,5 +2144,35 @@
       "en": ""
     },
     "image": "crispy-fried-chicken.JPG"
+  },
+  {
+    "id": "fermented-rice-sweet-soup-with-red-beans",
+    "nameZh": "红豆酒酿",
+    "nameEn": "fermented rice sweet soup with red beans",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "红豆",
+        "酒酿"
+      ],
+      "en": [
+        "red beans",
+        "sweet fermented rice"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "fermented-rice-sweet-soup-with-red-beans.JPG"
   }
 ]
