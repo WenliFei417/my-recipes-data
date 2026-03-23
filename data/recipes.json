@@ -2264,5 +2264,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "steamed-sea-bass",
+    "nameZh": "清蒸鲈鱼",
+    "nameEn": "Steamed Sea Bass",
+    "category": "seafood",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "海鲈鱼"
+      ],
+      "en": [
+        "Sea Bass"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
