@@ -2362,8 +2362,12 @@
     "category": "oven",
     "difficulty": "hard",
     "ingredients": {
-      "zh": [],
-      "en": []
+      "zh": [
+        "羊肉"
+      ],
+      "en": [
+        "Lamb"
+      ]
     },
     "steps": {
       "zh": [],
