@@ -2320,5 +2320,39 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "mango-cake-with-a-buttery-crisp-topping",
+    "nameZh": "黄油薄脆芒果蛋糕",
+    "nameEn": "Mango Cake with a Buttery Crisp Topping",
+    "category": "dessert",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "奶油",
+        "黄油",
+        "芒果"
+      ],
+      "en": [
+        "Flour",
+        "Cream",
+        "Butter",
+        "Mango"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
