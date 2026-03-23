@@ -2112,5 +2112,37 @@
       "en": ""
     },
     "image": "stir-fried-beef-with-leek.JPG"
+  },
+  {
+    "id": "crispy-fried-chicken",
+    "nameZh": "脆皮炸鸡",
+    "nameEn": "crispy fried chicken",
+    "category": "meat",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "鸡肉"
+      ],
+      "en": [
+        "chicken"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [
+        "小孩最爱"
+      ],
+      "en": [
+        "Kids favorite"
+      ]
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
