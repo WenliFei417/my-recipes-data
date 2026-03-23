@@ -2204,5 +2204,37 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "teriyaki-chicken-bowl",
+    "nameZh": "照烧鸡肉饭",
+    "nameEn": "Teriyaki Chicken Bowl",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "米饭",
+        "鸡肉",
+        "鸡蛋"
+      ],
+      "en": [
+        "Rice",
+        "Chicken",
+        "Egg"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
