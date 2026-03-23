@@ -2236,5 +2236,33 @@
       "en": ""
     },
     "image": ""
+  },
+  {
+    "id": "braised-eggs-in-soybean-paste",
+    "nameZh": "大酱烧鸡蛋",
+    "nameEn": "Braised Eggs in Soybean Paste",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡蛋"
+      ],
+      "en": [
+        "Egg"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": ""
   }
 ]
