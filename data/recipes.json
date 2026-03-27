@@ -2478,5 +2478,33 @@
       "en": ""
     },
     "image": "black-forest-cake.JPG"
+  },
+  {
+    "id": "fried-cilantro",
+    "nameZh": "炸香菜",
+    "nameEn": "Fried Cilantro",
+    "category": "snack",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "香菜"
+      ],
+      "en": [
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "fried-cilantro.JPG"
   }
 ]
