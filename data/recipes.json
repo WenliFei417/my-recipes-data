@@ -2382,5 +2382,35 @@
       "en": ""
     },
     "image": "grilled-lamb-skewers.jpg"
+  },
+  {
+    "id": "chinese-fried-dough-stick",
+    "nameZh": "油条",
+    "nameEn": "Chinese fried dough stick",
+    "category": "snack",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "油"
+      ],
+      "en": [
+        "Flour",
+        "Oil"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "chinese-fried-dough-stick.JPG"
   }
 ]
