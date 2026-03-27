@@ -2444,5 +2444,39 @@
       "en": ""
     },
     "image": "strawberry-cream-cake.JPG"
+  },
+  {
+    "id": "black-forest-cake",
+    "nameZh": "黑森林蛋糕",
+    "nameEn": "Black Forest cake",
+    "category": "dessert",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "巧克力",
+        "车厘子",
+        "面粉",
+        "奶油"
+      ],
+      "en": [
+        "Chocolate",
+        "Cheery",
+        "Flour",
+        "Cream"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "black-forest-cake.JPG"
   }
 ]
