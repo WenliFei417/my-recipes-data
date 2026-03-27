@@ -2506,5 +2506,35 @@
       "en": ""
     },
     "image": "fried-cilantro.JPG"
+  },
+  {
+    "id": "egg-tart",
+    "nameZh": "蛋挞",
+    "nameEn": "egg tart",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡蛋",
+        "奶油"
+      ],
+      "en": [
+        "Egg",
+        "Cream"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "egg-tart.JPG"
   }
 ]
