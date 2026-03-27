@@ -2412,5 +2412,37 @@
       "en": ""
     },
     "image": "chinese-fried-dough-stick.JPG"
+  },
+  {
+    "id": "strawberry-cream-cake",
+    "nameZh": "草莓奶油蛋糕",
+    "nameEn": "strawberry cream cake",
+    "category": "dessert",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "奶油",
+        "草莓"
+      ],
+      "en": [
+        "Flour",
+        "Cream",
+        "Strawberry"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "strawberry-cream-cake.JPG"
   }
 ]
