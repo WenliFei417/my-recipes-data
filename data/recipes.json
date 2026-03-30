@@ -2614,5 +2614,35 @@
       "en": ""
     },
     "image": "spicy-squid.JPG"
+  },
+  {
+    "id": "chocolate-mille-crepe-cake",
+    "nameZh": "巧克力千层",
+    "nameEn": "Chocolate Mille Crepe Cake",
+    "category": "dessert",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "面粉",
+        "巧克力"
+      ],
+      "en": [
+        "Flour",
+        "Chocolate"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "chocolate-mille-crepe-cake.JPG"
   }
 ]
