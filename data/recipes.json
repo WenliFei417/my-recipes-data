@@ -2556,5 +2556,35 @@
       "en": ""
     },
     "image": "stir-fried-pork-with-celery.JPG"
+  },
+  {
+    "id": "-sichuan-style-mapo-tofu",
+    "nameZh": "麻婆豆腐",
+    "nameEn": "Sichuan-style Mapo tofu",
+    "category": "tofu",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "豆腐",
+        "牛肉"
+      ],
+      "en": [
+        "Tofu",
+        "Beef"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "-sichuan-style-mapo-tofu.JPG"
   }
 ]
