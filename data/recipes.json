@@ -2586,5 +2586,33 @@
       "en": ""
     },
     "image": "-sichuan-style-mapo-tofu.JPG"
+  },
+  {
+    "id": "spicy-squid",
+    "nameZh": "香辣鱿鱼",
+    "nameEn": "Spicy squid",
+    "category": "seafood",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鱿鱼"
+      ],
+      "en": [
+        "Squid"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "spicy-squid.JPG"
   }
 ]
