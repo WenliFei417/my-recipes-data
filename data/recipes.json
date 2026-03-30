@@ -68,14 +68,8 @@
     "category": "tofu",
     "difficulty": "medium",
     "ingredients": {
-      "zh": [
-        "豆腐",
-        "牛肉"
-      ],
-      "en": [
-        "Tofu",
-        "Beef"
-      ]
+      "zh": [],
+      "en": []
     },
     "steps": {
       "zh": [],
