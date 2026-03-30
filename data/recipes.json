@@ -66,17 +66,15 @@
     "nameZh": "麻婆豆腐",
     "nameEn": "Mapo Tofu",
     "category": "tofu",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "ingredients": {
       "zh": [
         "豆腐",
-        "牛肉 / 猪肉",
-        "辣椒油"
+        "牛肉"
       ],
       "en": [
         "Tofu",
-        "Beef / Pork",
-        "Chili Oil"
+        "Beef"
       ]
     },
     "steps": {
