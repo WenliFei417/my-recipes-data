@@ -62,30 +62,6 @@
     "image": "braised-tofu-with-leeks.JPG"
   },
   {
-    "id": "mapo-tofu",
-    "nameZh": "麻婆豆腐",
-    "nameEn": "Mapo Tofu",
-    "category": "tofu",
-    "difficulty": "medium",
-    "ingredients": {
-      "zh": [],
-      "en": []
-    },
-    "steps": {
-      "zh": [],
-      "en": []
-    },
-    "tags": {
-      "zh": [],
-      "en": []
-    },
-    "tips": {
-      "zh": "",
-      "en": ""
-    },
-    "image": "mapo-tofu.JPG"
-  },
-  {
     "id": "spicy-stir-fried-beef-with-chilies",
     "nameZh": "辣椒炒肉",
     "nameEn": "Spicy Stir-Fried Beef with Chilies",
