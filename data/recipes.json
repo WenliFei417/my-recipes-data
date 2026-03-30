@@ -2534,5 +2534,35 @@
       "en": ""
     },
     "image": "egg-tart.JPG"
+  },
+  {
+    "id": "stir-fried-pork-with-celery",
+    "nameZh": "芹菜烧肉",
+    "nameEn": "Stir-fried Pork with Celery",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "芹菜",
+        "猪肉"
+      ],
+      "en": [
+        "Celery",
+        "Pork"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "stir-fried-pork-with-celery.JPG"
   }
 ]
