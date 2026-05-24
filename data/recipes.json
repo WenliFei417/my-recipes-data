@@ -2678,5 +2678,39 @@
       "en": ""
     },
     "image": "chicken-cutlet-buldak-noodles.jpg"
+  },
+  {
+    "id": "shredded-chicken-soup",
+    "nameZh": "鸡丝汤",
+    "nameEn": "Shredded Chicken Soup",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡丝",
+        "木耳",
+        "千张丝",
+        "鸡汤"
+      ],
+      "en": [
+        "Shredded Chicken",
+        "Wood Ear Mushrooms",
+        "Shredded Tofu Sheets",
+        "Chicken Soup"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "shredded-chicken-soup.jpg"
   }
 ]
