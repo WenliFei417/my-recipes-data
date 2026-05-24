@@ -2648,5 +2648,35 @@
       "en": ""
     },
     "image": "salt-and-pepper-mushrooms.jpg"
+  },
+  {
+    "id": "chicken-cutlet-buldak-noodles",
+    "nameZh": "鸡排火鸡面",
+    "nameEn": "Chicken Cutlet Buldak Noodles",
+    "category": "noodle",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "鸡排",
+        "火鸡面"
+      ],
+      "en": [
+        "Chicken Cutlet",
+        "Buldak Noodles"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "chicken-cutlet-buldak-noodles.jpg"
   }
 ]
