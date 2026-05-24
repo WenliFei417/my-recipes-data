@@ -2620,5 +2620,33 @@
       "en": ""
     },
     "image": "chocolate-mille-crepe-cake.JPG"
+  },
+  {
+    "id": "salt-and-pepper-mushrooms",
+    "nameZh": "椒盐蘑菇",
+    "nameEn": "Salt and Pepper Mushrooms",
+    "category": "veggie",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "蘑菇"
+      ],
+      "en": [
+        "Mushroom"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "salt-and-pepper-mushrooms.jpg"
   }
 ]
