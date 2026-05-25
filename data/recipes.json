@@ -2742,5 +2742,37 @@
       "en": ""
     },
     "image": "deep-fried-red-bean-rice-cake.jpg"
+  },
+  {
+    "id": "japanese-beef-bowl",
+    "nameZh": "日式肥牛饭",
+    "nameEn": "Japanese Beef Bowl",
+    "category": "staple",
+    "difficulty": "easy",
+    "ingredients": {
+      "zh": [
+        "牛肉卷",
+        "洋葱",
+        "鸡蛋"
+      ],
+      "en": [
+        "Sliced Beef Rolls",
+        "Onion",
+        "Egg"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "japanese-beef-bowl.jpg"
   }
 ]
