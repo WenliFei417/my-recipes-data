@@ -2712,5 +2712,35 @@
       "en": ""
     },
     "image": "shredded-chicken-soup.jpg"
+  },
+  {
+    "id": "deep-fried-red-bean-rice-cake",
+    "nameZh": "红豆炸糖饼",
+    "nameEn": "Deep-Fried Red Bean Rice Cake",
+    "category": "snack",
+    "difficulty": "hard",
+    "ingredients": {
+      "zh": [
+        "红豆馅",
+        "糯米粉"
+      ],
+      "en": [
+        "Red Bean Paste",
+        "Glutinous Rice Flour"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "deep-fried-red-bean-rice-cake.jpg"
   }
 ]
