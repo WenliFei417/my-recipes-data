@@ -2806,5 +2806,37 @@
       "en": ""
     },
     "image": "kung-pao-chicken.jpg"
+  },
+  {
+    "id": "curry-ground-beef-and-potatoes",
+    "nameZh": "咖喱土豆牛肉末",
+    "nameEn": "Curry Ground Beef and Potatoes",
+    "category": "meat",
+    "difficulty": "medium",
+    "ingredients": {
+      "zh": [
+        "土豆",
+        "牛肉末",
+        "香菜"
+      ],
+      "en": [
+        "Potato",
+        "Ground Beef",
+        "Cilantro"
+      ]
+    },
+    "steps": {
+      "zh": [],
+      "en": []
+    },
+    "tags": {
+      "zh": [],
+      "en": []
+    },
+    "tips": {
+      "zh": "",
+      "en": ""
+    },
+    "image": "curry-ground-beef-and-potatoes.jpg"
   }
 ]
