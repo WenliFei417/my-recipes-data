@@ -2776,38 +2776,6 @@
     "image": "japanese-beef-bowl.jpg"
   },
   {
-    "id": "kung-pao-chicken",
-    "nameZh": "宫保鸡丁",
-    "nameEn": "Kung Pao Chicken",
-    "category": "meat",
-    "difficulty": "medium",
-    "ingredients": {
-      "zh": [
-        "鸡腿",
-        "大葱",
-        "花生"
-      ],
-      "en": [
-        "Chicken Thigh",
-        "Chinese Leek",
-        "Peanut"
-      ]
-    },
-    "steps": {
-      "zh": [],
-      "en": []
-    },
-    "tags": {
-      "zh": [],
-      "en": []
-    },
-    "tips": {
-      "zh": "",
-      "en": ""
-    },
-    "image": "kung-pao-chicken.jpg"
-  },
-  {
     "id": "curry-ground-beef-and-potatoes",
     "nameZh": "咖喱土豆牛肉末",
     "nameEn": "Curry Ground Beef and Potatoes",
